@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# My order
+out/
+*.iml
+.idea/*.xml
+game/
